@@ -2,3 +2,5 @@ Hello
 
 
 added third line from secondBranch
+
+added fourth line from secondBranch
